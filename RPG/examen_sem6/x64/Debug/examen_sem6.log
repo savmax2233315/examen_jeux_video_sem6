@@ -1,0 +1,3 @@
+﻿  Aventurier.cpp
+C:\Users\2233315\Documents\Code\JeuxVideo\examen_jeux_video_sem6\RPG\examen_sem6\FactoryQuete.h(9,2): warning C4091: 'static ' : ignoré à gauche de 'FactoryQuete' quand aucune variable n'est déclarée
+  examen_sem6.vcxproj -> C:\Users\2233315\Documents\Code\JeuxVideo\examen_jeux_video_sem6\RPG\x64\Debug\examen_sem6.exe
